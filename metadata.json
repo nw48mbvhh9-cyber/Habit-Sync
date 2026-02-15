@@ -1,0 +1,5 @@
+{
+  "name": "HabitSync - Microsoft Teams Style Tracker",
+  "description": "A high-performance habit tracking application designed with a clean Microsoft Teams-inspired aesthetic, featuring flexible repetition schedules, weekly progress analytics, and local storage persistence.",
+  "requestFramePermissions": []
+}
